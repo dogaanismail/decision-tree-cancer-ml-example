@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/week-3-example.iml" filepath="$PROJECT_DIR$/.idea/week-3-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ml-example/.idea/ml-cancer-decision-tree-example.iml" filepath="$PROJECT_DIR$/../ml-example/.idea/ml-cancer-decision-tree-example.iml" />
     </modules>
   </component>
 </project>
